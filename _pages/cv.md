@@ -2,7 +2,7 @@
 layout: forward
 traget: https://maryamyazdi.github.io
 title: previous
-nav: true
+nav: false
 nav_order: 5
 toc:
   sidebar: left
