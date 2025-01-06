@@ -15,18 +15,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I graduated with a B.Sc. in Computer Software Engineering from the [University of Isfahan](https://www.ui.ac.ir/EN) in 2023, supervised by [Prof. Reza Ramezani](https://scholar.google.com/citations?user=QDa3wGgAAAAJ&hl=en). My primary research interests are in Natural Language Processing and Trustworthy Machine Learning.
+I received my B.Sc. in Computer Engineering from the [University of Isfahan](https://www.ui.ac.ir/EN) in 2023, where I was honored to be supervised by [Dr. Reza Ramezani](https://scholar.google.com/citations?user=QDa3wGgAAAAJ&hl=en). My research ambition lies at the intersection of cyber-physical systems and cybersecurity, where I aim to securing our increasingly connected world.
 
-I have worked as a teaching assistant in the Department of Computer Science at the University of Isfahan. Following graduation, I started my career as a Data Scientist at [DataCoLab](https://datacolab.co.uk/).
+I served as a teaching assistant in the Department of Computer Science at the University of Isfahan during my undergraduate studies. Following graduation, I started working as a Data Scientist at [DataCoLab](https://datacolab.co.uk/).
 
-My academic and professional experiences have deepened my knowledge and sharpened my skills through solving real-world problems. My passion for exploring how AI can improve people's lives motivates me throughout my journey.
+Through hands-on problem-solving in both academic and industry settings, I've developed a robust foundation that I'm eager to build upon through pursuing a PhD in Computer Science.
 
 
 
 ### Research Interests
 
-- Large Language Models (robustness, various application domains)
-- Knowledge Extraction
+- Cyber-physical Systems
+- Security and Safety
 - Trustworthy Machine Learning
 
 In my free time, I enjoy spontaneous oil painting or going out for a run. I am also very interested in music and play the piano.
